@@ -8,3 +8,19 @@
   font-family:   'Source Code Pro', monospace;
   background-image: linear-gradient(120deg,aliceblue,aliceblue);
 }
+#home{
+  font-family: 'Yellowtail', cursive;
+
+}
+#homejumbotron{
+  height: 300px;
+}
+#homebody{
+    font-family:   'Source Code Pro', monospace;
+    background-image: url("./../images/image2.png");
+    background-repeat: no-repeat;
+
+}
+a:hover{
+  background: aliceblue;
+}
